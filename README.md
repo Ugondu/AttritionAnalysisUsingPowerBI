@@ -94,7 +94,11 @@ The final dashboard is expected to appear in this format including visuals like;
 6. Interactive filter
 
 
+
+
 ![image](https://github.com/user-attachments/assets/1437fd98-fdd3-4ed2-8032-264e04ffba50)
+
+
 
 
 ## Tools
@@ -134,7 +138,7 @@ The dataset is examined at this stage to check for data input errors, inconsiste
 3. Some headers were not descriptive for easy understanding
 
 
-## Data Cleaning]
+## Data Cleaning
 
 We aim to refine and normalise the datasets using SQL to ensure it is structured and ready for analysis.
 
@@ -143,6 +147,8 @@ We aim to refine and normalise the datasets using SQL to ensure it is structured
 1. Remove irrelevant columns from each dataset
 2. Create new columns for better description and classification
 3. Drop null and blank fields.
+
+
 
 ## Data Transformation
 
